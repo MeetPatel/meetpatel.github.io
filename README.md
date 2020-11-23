@@ -65,6 +65,7 @@ This starter creates a new Gatsby site that installs and configures the theme [`
 Have a look at the theme's README and files to see what options are available and how you can shadow the various components including Theme UI. Generally speaking you will want to place your files into `src/@lekoarts/gatsby-theme-cara/` to shadow/override files. The Theme UI config can be configured by shadowing its files in `src/gatsby-plugin-theme-ui/`.
 
 ### Changing content
+- [Default .mdx files](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara/src/sections)  
 
 The content of this project is defined in four `.mdx` files inside the theme's `sections` folder. You can override the files `intro.mdx`, `projects.mdx`, `about.mdx` and `contact.mdx`. This starter has overriden the `intro.mdx` file as an example. Place the other files in the same `src/@lekoarts/gatsby-theme-cara/sections/` folder.
 
