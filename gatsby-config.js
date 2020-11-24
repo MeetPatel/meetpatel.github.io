@@ -28,7 +28,7 @@ module.exports = {
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: `Meet Patel | GSoC 2020 | DA-IICT | Computational Science | Open Source`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
